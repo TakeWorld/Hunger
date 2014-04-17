@@ -2,4 +2,6 @@ Hunger
 ======
 
 This is a game for Ludum Dare.
-Please do not copy my game. 
+
+
+Copyright: https://www.youtube.com/watch?v=5pyv5qOAofI
